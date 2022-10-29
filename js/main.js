@@ -17,7 +17,7 @@
 			didScroll = false;
 			changeHeader();
 		}
-	}, 100);
+	}, 5);
 
 	changeHeader();
 
