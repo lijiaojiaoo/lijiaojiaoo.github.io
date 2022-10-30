@@ -7,21 +7,25 @@ left_links:
     link: /contact/
 right_links:
   - name:
-    link: https://facebook.com/cloudcannon
+    link: https://linecorp.com/ja/
     new_window: true
-    social_icon: Facebook
+    social_icon: Line
+    is_mail: false
   - name:
-    link: https://twitter.com/cloudcannon
-    social_icon: Twitter
+    link: https://weixin.qq.com/
+    social_icon: Weixin
     new_window: true
-  - name:
-    link: https://youtube.com/c/cloudcannon
-    social_icon: YouTube
-    new_window: true
+    is_mail: false
   - name:
     link: https://instagram.com/
     social_icon: Instagram
     new_window: true
+    is_mail: false
   - name:
-    link: /feed.xml
-    social_icon: RSS
+    link: 
+    social_icon: Email
+    new_window: true
+    is_mail: true
+
+
+
