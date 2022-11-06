@@ -1,5 +1,5 @@
 html {
-	background: #FFCCCC;
+	background: #000000;
 }
 
 html, body {
@@ -59,4 +59,9 @@ p, address, ul {
 	font-weight: 300;
 	line-height: 1.6em;
 	font-family: 'Lato', sans-serif;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url('../assets/fonts/Luam-Light.ttf');
 }
